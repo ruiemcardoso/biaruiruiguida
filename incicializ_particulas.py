@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 11 15:27:36 2017
 
-@author: rui
-"""
 
 import random
 import math
@@ -11,7 +7,7 @@ import numpy
 
 
 def particle_init(mapa, edges,declive,b):
-    N = 3*len(mapa)
+    N = 4*len(mapa)
     particulas = [None]*N
     
     for x in range (0, N):
@@ -78,15 +74,13 @@ def encontra_edge(mapa,edges,declive,declive_perp,b,part):
     return part
 
 def constrain(particulas, edges, mapa, declive, declive_perp, b):
-    wc_sum=0
     particulas=encontra_edge(mapa,edges,declive,declive_perp,b,particulas)
     
     for i in range(len(particulas)):
         larg_corredor=1 
         if particulas[i][5] > larg_corredor:
-            particulas[i][1]=0.00000000000001
-        
-            
+            particulas[i][1]=0
+           
     return particulas
 
 
@@ -143,7 +137,7 @@ def perceptual_model (particula,mapa,edges, medida):
     else: 
         d_xi = auxlvj
     
-    epsilon=0.1
+    epsilon=0.01
         
         
     while(c2<len(medida) and c1<len(mac_ap)):
@@ -183,7 +177,7 @@ def resampling(Xt, mapa, edges, declive, b):
     n_ef= 1.0/weigaux_sum
         
 
-    if n_ef<(len(Xt)/2.0) and dif_weights == True:  #se poucas partículas têm todo o peso é feito resampling
+    if (n_ef<(len(Xt)/2.0) and dif_weights == True):  #se poucas partículas têm todo o peso é feito resampling
         
         i=0
         Xt_resampled=[None]*len(Xt)
@@ -192,9 +186,8 @@ def resampling(Xt, mapa, edges, declive, b):
             Xt_resampled[i]=Xt[part]
             Xt_resampled[i][1]=1.0/len(Xt)
         
-        for i in range(int(0.9*len(Xt))+1, len(Xt)):
+        for i in range(int(0.9*len(Xt)), len(Xt)):
             k = random.randint(0, len(edges)-1)
-        
             aux1 = edges[k][0]
             aux2 = edges[k][1]
             
@@ -213,8 +206,9 @@ def resampling(Xt, mapa, edges, declive, b):
             aa =yp-mapa[ref][0][2]
             d = euc_norm([a,aa])
             Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
-            
+
         Xt=Xt_resampled
+		
 
     return Xt
     
