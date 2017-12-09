@@ -192,7 +192,7 @@ def resampling(Xt, mapa, edges, declive, b):
             Xt_resampled[i]=Xt[part]
             Xt_resampled[i][1]=1.0/len(Xt)
         
-        for i in range([int(0.9*len(Xt))+1, len(Xt)]):
+        for i in range(int(0.9*len(Xt))+1, len(Xt)):
             k = random.randint(0, len(edges)-1)
         
             aux1 = edges[k][0]

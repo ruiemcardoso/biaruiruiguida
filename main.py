@@ -71,7 +71,7 @@ def move_particles(cloud,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,
 	
 	if (d_x>0.05 or d_y>0.05):
 		particulas=constrain(particulas, edges, mapa, declive, declive_perp, b)	
-		particulas=resampling(particulas)
+		particulas=resampling(particulas,mapa,edges,declive,b)
  
 
 	for i in range (len(particulas)):
