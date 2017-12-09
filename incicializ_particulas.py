@@ -86,11 +86,6 @@ def constrain(particulas, edges, mapa, declive, declive_perp, b):
         if particulas[i][5] > larg_corredor:
             particulas[i][1]=0.00000000000001
         
-        wc_sum = wc_sum + particulas[i][1]
-        
-    sum_p=0
-    for i in range(len(particulas)):
-        particulas[i][1] = particulas[i][1]/(float(wc_sum))
             
     return particulas
 
@@ -164,7 +159,7 @@ def perceptual_model (particula,mapa,edges, medida):
     return prob_sl
             
     
-def resampling(Xt):
+def resampling(Xt, mapa, edges, declive, b):
     i=0
     aux=range(len(Xt))
     weig=Xt[0][1]
@@ -192,13 +187,34 @@ def resampling(Xt):
         
         i=0
         Xt_resampled=[None]*len(Xt)
-        for i in range(len(Xt)):
+        for i in range(int(0.9*len(Xt))):
             part=numpy.random.choice(aux,p=weigaux)
             Xt_resampled[i]=Xt[part]
             Xt_resampled[i][1]=1.0/len(Xt)
+        
+        for i in range([int(0.9*len(Xt))+1, len(Xt)]):
+            k = random.randint(0, len(edges)-1)
+        
+            aux1 = edges[k][0]
+            aux2 = edges[k][1]
+            
+            xa = mapa[aux1][0][1]
+            xb = mapa[aux2][0][1]
+            
+            xp=random.uniform(xa, xb)
+            yp=declive[k]*xp+b[k]
+            o=0
+            
+            if (aux1<aux2):
+                ref = aux1
+            else:
+                ref = aux2
+            a = xp-mapa[ref][0][1]
+            aa =yp-mapa[ref][0][2]
+            d = euc_norm([a,aa])
+            Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
             
         Xt=Xt_resampled
-            
 
     return Xt
     
