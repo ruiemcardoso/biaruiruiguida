@@ -66,7 +66,7 @@ def move_particles(cloud,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,
 	for i in range (len(particulas)):
 		particulas[i][2] += random.normalvariate(0,0.05)+d_x
 		particulas[i][3] += random.normalvariate(0,0.05)+d_y
-		particulas[i][5] = offset
+		particulas[i][5] = offset(particula[i],edges)
 		particulas[i][1] = perceptual_model(particulas[i],mapa,edges,rssi)
 	
 	particulas=constrain(particulas, edges, mapa, declive, declive_perp, b)	
