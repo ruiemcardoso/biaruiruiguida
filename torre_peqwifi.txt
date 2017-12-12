@@ -1,0 +1,1709 @@
+1513094681
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=29/70  Signal level=-81 dBm  
+1513094684
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-38 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=29/70  Signal level=-81 dBm  
+1513094687
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-40 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=29/70  Signal level=-81 dBm  
+1513094690
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-40 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=29/70  Signal level=-81 dBm  
+1513094693
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094696
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094699
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-35 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-34 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=61/70  Signal level=-49 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094705
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-39 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-39 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-38 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-39 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094708
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=65/70  Signal level=-45 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=65/70  Signal level=-45 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=62/70  Signal level=-48 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-35 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094711
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=70/70  Signal level=-37 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=65/70  Signal level=-45 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=65/70  Signal level=-45 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=62/70  Signal level=-48 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=70/70  Signal level=-36 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094714
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=61/70  Signal level=-49 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094717
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094720
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 14 - Address: 70:4F:57:93:DF:8F
+                    Quality=32/70  Signal level=-78 dBm  
+1513094722
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-40 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-40 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=52/70  Signal level=-58 dBm  
+1513094725
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=28/70  Signal level=-82 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=27/70  Signal level=-83 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=54/70  Signal level=-56 dBm  
+1513094728
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=54/70  Signal level=-56 dBm  
+1513094731
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=31/70  Signal level=-79 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=54/70  Signal level=-56 dBm  
+1513094734
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=51/70  Signal level=-59 dBm  
+1513094737
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=55/70  Signal level=-55 dBm  
+1513094740
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=53/70  Signal level=-57 dBm  
+1513094743
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=47/70  Signal level=-63 dBm  
+1513094746
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=49/70  Signal level=-61 dBm  
+1513094749
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=61/70  Signal level=-49 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=61/70  Signal level=-49 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=47/70  Signal level=-63 dBm  
+1513094752
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+1513094758
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=56/70  Signal level=-54 dBm  
+1513094761
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=63/70  Signal level=-47 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=67/70  Signal level=-43 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+1513094764
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 10 - Address: 24:01:C7:DC:03:60
+                    Quality=30/70  Signal level=-80 dBm  
+          Cell 11 - Address: 24:01:C7:DC:03:61
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 12 - Address: 24:01:C7:DC:06:90
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 13 - Address: 24:01:C7:DC:06:91
+                    Quality=43/70  Signal level=-67 dBm  
+1513094767
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=41/70  Signal level=-69 dBm  
+1513094770
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=43/70  Signal level=-67 dBm  
+1513094773
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=44/70  Signal level=-66 dBm  
+1513094776
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=44/70  Signal level=-66 dBm  
+1513094779
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=39/70  Signal level=-71 dBm  
+1513094782
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=49/70  Signal level=-61 dBm  
+1513094785
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=43/70  Signal level=-67 dBm  
+1513094788
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=39/70  Signal level=-71 dBm  
+1513094791
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=35/70  Signal level=-75 dBm  
+1513094794
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=32/70  Signal level=-78 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=33/70  Signal level=-77 dBm  
+1513094796
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=37/70  Signal level=-73 dBm  
+1513094799
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=32/70  Signal level=-78 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=34/70  Signal level=-76 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=35/70  Signal level=-75 dBm  
+1513094802
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=28/70  Signal level=-82 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=38/70  Signal level=-72 dBm  
+1513094805
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=28/70  Signal level=-82 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=39/70  Signal level=-71 dBm  
+1513094808
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=28/70  Signal level=-82 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=37/70  Signal level=-73 dBm  
+1513094811
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=28/70  Signal level=-82 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 05 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 08 - Address: 00:27:19:C2:5D:12
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 09 - Address: 24:01:C7:6D:DF:F1
+                    Quality=29/70  Signal level=-81 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:90
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 11 - Address: 24:01:C7:DC:06:91
+                    Quality=38/70  Signal level=-72 dBm  
+1513094814
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=34/70  Signal level=-76 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=34/70  Signal level=-76 dBm  
+1513094820
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094823
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094826
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=34/70  Signal level=-76 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094829
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094832
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094835
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=32/70  Signal level=-78 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=32/70  Signal level=-78 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=48/70  Signal level=-62 dBm  
+1513094838
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=36/70  Signal level=-74 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=51/70  Signal level=-59 dBm  
+1513094841
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=51/70  Signal level=-59 dBm  
+1513094844
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=32/70  Signal level=-78 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=38/70  Signal level=-72 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=34/70  Signal level=-76 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=33/70  Signal level=-77 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=51/70  Signal level=-59 dBm  
+1513094847
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=45/70  Signal level=-65 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=53/70  Signal level=-57 dBm  
+1513094850
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=35/70  Signal level=-75 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=40/70  Signal level=-70 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=53/70  Signal level=-57 dBm  
+1513094853
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=53/70  Signal level=-57 dBm  
+1513094856
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=42/70  Signal level=-68 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=50/70  Signal level=-60 dBm  
+1513094859
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=50/70  Signal level=-60 dBm  
+1513094862
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=43/70  Signal level=-67 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=60/70  Signal level=-50 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=61/70  Signal level=-49 dBm  
+1513094865
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=44/70  Signal level=-66 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=58/70  Signal level=-52 dBm  
+1513094867
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=46/70  Signal level=-64 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=63/70  Signal level=-47 dBm  
+1513094870
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=61/70  Signal level=-49 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=64/70  Signal level=-46 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=63/70  Signal level=-47 dBm  
+1513094873
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=68/70  Signal level=-42 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=68/70  Signal level=-42 dBm  
+1513094876
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=52/70  Signal level=-58 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-39 dBm  
+1513094882
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=41/70  Signal level=-69 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=69/70  Signal level=-41 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=62/70  Signal level=-48 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=59/70  Signal level=-51 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-39 dBm  
+1513094885
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=48/70  Signal level=-62 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-33 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=51/70  Signal level=-59 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-31 dBm  
+          Cell 12 - Address: 24:01:C7:DC:03:60
+                    Quality=37/70  Signal level=-73 dBm  
+          Cell 13 - Address: 24:01:C7:DC:03:61
+                    Quality=38/70  Signal level=-72 dBm  
+1513094888
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=47/70  Signal level=-63 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-33 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=58/70  Signal level=-52 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=57/70  Signal level=-53 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-33 dBm  
+          Cell 12 - Address: 24:01:C7:DC:03:60
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 13 - Address: 24:01:C7:DC:03:61
+                    Quality=39/70  Signal level=-71 dBm  
+1513094891
+          Cell 01 - Address: 24:01:C7:6D:DF:F0
+                    Quality=53/70  Signal level=-57 dBm  
+          Cell 02 - Address: 4E:66:41:17:FE:A3
+                    Quality=56/70  Signal level=-54 dBm  
+          Cell 03 - Address: AA:6B:AD:59:6E:CC
+                    Quality=49/70  Signal level=-61 dBm  
+          Cell 04 - Address: 24:01:C7:91:5A:11
+                    Quality=70/70  Signal level=-33 dBm  
+          Cell 05 - Address: 24:01:C7:B9:E0:30
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 06 - Address: 24:01:C7:B9:E0:31
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 07 - Address: 00:27:19:C2:5D:12
+                    Quality=55/70  Signal level=-55 dBm  
+          Cell 08 - Address: 24:01:C7:6D:DF:F1
+                    Quality=54/70  Signal level=-56 dBm  
+          Cell 09 - Address: 24:01:C7:DC:06:90
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 10 - Address: 24:01:C7:DC:06:91
+                    Quality=50/70  Signal level=-60 dBm  
+          Cell 11 - Address: 24:01:C7:91:5A:10
+                    Quality=70/70  Signal level=-32 dBm  
+          Cell 12 - Address: 24:01:C7:DC:03:60
+                    Quality=39/70  Signal level=-71 dBm  
+          Cell 13 - Address: 24:01:C7:DC:03:61
+                    Quality=39/70  Signal level=-71 dBm  
+1513094894
