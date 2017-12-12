@@ -41,7 +41,7 @@ def get_rssi():
 			j=0
 	print aux
 	
- 	return aux
+ 	return sorted(aux)
 
 	#time.sleep(2)
 
