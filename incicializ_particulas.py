@@ -127,10 +127,9 @@ def perceptual_model (particula,mapa,edges, medida):
             D.append((auxlvi*mapa[vert_i][1][c1][1]+auxlvj*(-50))/auxvivj)
             c2 += 1
         
-    i=0
     c1=0
     c2=0
-    prob_sl=1
+    prob_sl=1.0
         
     if(auxlvi<auxlvj):
         d_xi=auxlvi
@@ -142,7 +141,7 @@ def perceptual_model (particula,mapa,edges, medida):
         
     while(c2<len(medida) and c1<len(mac_ap)):
         if (mac_ap[c1] == medida[c2][0]):
-            prob_sl = prob_sl*((2*epsilon/(math.sqrt(2*math.pi)*d_xi))*math.e**((medida[c2][1]-M[c1])**2/(2*D[c1]**2)))
+            prob_sl = prob_sl*((2*epsilon/(math.sqrt(2*math.pi)*d_xi))*math.e**((float(medida[c2][1])-M[c1])**2/(2*D[c1]**2)))
             c1+=1
             c2+=1
         elif (mac_ap[c1] < medida[c2][0]):
