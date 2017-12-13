@@ -17,11 +17,11 @@ Created on Thu Oct 26 16:18:33 2017
 from media import *
 
 def mapa():
-	F=open("/home/rui/biaruiruiguida/torreodom.txt","r")
+	F=open("/home/rui/biaruiruiguida/1corr.txt","r")
 	m=[F.readlines()]
 	F.close()
 	
-	Q=open("/home/rui/biaruiruiguida/torrewifi.txt","r")
+	Q=open("/home/rui/biaruiruiguida/1corrwifi.txt","r")
 	w=[Q.readlines()]
 	Q.close()
 	

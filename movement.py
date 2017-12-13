@@ -18,32 +18,6 @@ def get_odom():
 	
 	return [x,y]
 
-def get_rssi():
-	interface = os.popen("iwconfig").read()
-    	interface = interface.split('  ')[0]
-	wifi = os.popen("sudo iwlist " +interface+ " scanning | egrep 'Address|Signal'").read()
-	wifi=wifi.split()
-	 
-	i=0
-	aux=[]
-	aux1=[]
-	j=0
-	for i in range(len(wifi)):
-		if wifi[i] == 'Address:':
-               	        aux1.append(wifi[i+1])
-			j+=1
-               	if wifi[i][0:5] == 'level':
-			aux1.append(float(wifi[i][-3:len(wifi[i])]))
-			j+=1
-		if j==2:
-			aux.append(aux1)
-			aux1=[]
-			j=0
-	print aux
-	
- 	return sorted(aux)
-
-	#time.sleep(2)
 
 def delta_odom(x_p,y_p):
 	[x, y] = get_odom()

@@ -3,11 +3,12 @@
 from geometry_msgs.msg import PoseArray
 from geometry_msgs.msg import Pose
 from geometry_msgs.msg import PoseStamped
+from std_msgs.msg import String
 from incicializ_particulas import *
 from movement import *
 from mapa import *
+from rssi import *
 import rospy
-import os
 
 def init_cloud():
 	cloud=PoseArray()
@@ -49,8 +50,9 @@ def update_particle_orientation(d_x,d_y):
 	
 	return particle
 	
-def offset(particula,edges):
+def offset(particula,edges,mapa):
 	[a,b]=edges[particula[0]][0:2]
+	
 	xa=mapa[a][0][1]
 	ya=mapa[a][0][2]
 	xb=mapa[b][0][1]
@@ -58,25 +60,33 @@ def offset(particula,edges):
 	
 	offset=abs((yb-ya)*particula[2]-(xb-xa)*particula[3]+xb*ya-yb*xa)/(((yb-ya)**2+(xb-xa)**2)**(1/2))
 
-	return offset	
+	return offset
+	
+def callback(data):
+
+	wifi.append(data.data)
+	
+	
 	
 def move_particles(cloud,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,declive_perp,b):
 	i=0
 	
 	for i in range (len(particulas)):
-		particulas[i][2] += random.normalvariate(0,0.05)+d_x
-		particulas[i][3] += random.normalvariate(0,0.05)+d_y
-		particulas[i][5] = offset(particula[i],edges)
+		#particulas[i][1] = 1.0/len(particulas)
+		print d_x
+		print d_y
+		particulas[i][2] += random.normalvariate(0,0.005)+d_x
+		particulas[i][3] += random.normalvariate(0,0.005)+d_y
+		particulas[i][5] = offset(particulas[i],edges,mapa)
 		particulas[i][1] = perceptual_model(particulas[i],mapa,edges,rssi)
 	
 	particulas=constrain(particulas, edges, mapa, declive, declive_perp, b)	
-
-	if (d_x>0.05 or d_y>0.05):
+	
+	if (abs(d_x)>0.01 or abs(d_y)>0.01):
+		print "faz resampling"
 		particulas=resampling(particulas,mapa,edges,declive,b)
- 
 
 	for i in range (len(particulas)):
-		
 		cloud[i].position.x = particulas[i][2]
 		cloud[i].position.y = particulas[i][3]
 		#cloud[i].orientation.w += orientation.orientation.w
@@ -84,7 +94,29 @@ def move_particles(cloud,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,
 
 	return particulas
 	
-def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b):
+def process_rssi(wifi):
+	wifi=wifi.split()
+	 
+	i=0
+	aux=[]
+	aux1=[]
+	j=0
+	for i in range(len(wifi)):
+		if wifi[i] == 'Address:':
+               	        aux1.append(wifi[i+1])
+			j+=1
+               	if wifi[i][0:5] == 'level':
+			aux1.append(float(wifi[i][-3:len(wifi[i])]))
+			j+=1
+		if j==2:
+			aux.append(aux1)
+			aux1=[]
+			j=0
+	#print aux
+	
+ 	return sorted(aux)
+
+def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b,wifi):
 	
 	no_move=1	
 
@@ -93,8 +125,9 @@ def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b):
 	cloud_=cloud
 
 	while not rospy.is_shutdown():
-        	cloud_pub.publish(cloud_)
-         	rssi=get_rssi()
+		cloud_pub.publish(cloud_)
+		rospy.Subscriber('rssi',String,callback)
+		rssi=process_rssi(wifi[len(wifi)-1])
 		[d_x,d_y,x,y]=delta_odom(x,y)
 		#if d_x ==0 and d_y ==0:
 		orientation = Pose()
@@ -104,13 +137,23 @@ def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b):
  
 		#if d_x !=0 or d_y !=0 and no_move != 1:
 			#orientation=update_particle_orientation(d_x,d_y)
-         	particulas=move_particles(cloud.poses,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,declive_perp,b)
-         	rospy.sleep(1)
+		
+		particulas=move_particles(cloud.poses,d_x,d_y,orientation,particulas,rssi,mapa,edges,declive,declive_perp,b)
+		
+        
+        
+		d_x=0
+		d_y=0
+		
+        rospy.sleep(1)
 
 
 def main():
 	i=0	
-	
+	global wifi
+	wifi=[]
+	cenas=get_rssi()
+	wifi.append(cenas)
 	cloud=init_cloud()
 	[vertices,edges,mapes,declive,declive_perp,b]=mapa()
 	particulas=particle_init(mapes,edges,declive,b)
@@ -124,7 +167,7 @@ def main():
 	
     	[x,y]=get_odom()
 	#print('x: {}, y: {}'.format(x,y))
-	talker(cloud,x,y,particulas,mapes,edges,declive,declive_perp,b)
+	talker(cloud,x,y,particulas,mapes,edges,declive,declive_perp,b,wifi)
 
 if __name__ == '__main__':
 	main()
