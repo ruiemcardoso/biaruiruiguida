@@ -17,11 +17,11 @@ Created on Thu Oct 26 16:18:33 2017
 from media import *
 
 def mapa():
-	F=open("/home/rui/biaruiruiguida/1corr.txt","r")
+	F=open("/home/student/Desktop/teste/1corr.txt","r")
 	m=[F.readlines()]
 	F.close()
 	
-	Q=open("/home/rui/biaruiruiguida/1corrwifi.txt","r")
+	Q=open("/home/student/Desktop/teste/1corrwifi.txt","r")
 	w=[Q.readlines()]
 	Q.close()
 	
@@ -177,8 +177,7 @@ def mapa():
 		            aux6.append(sorted(aux2))
 		            aux6.append(sorted(aux3))
 		            aux6.append(sorted(aux4))
-		            aux6.append(sorted(aux5))  
-		            
+		            aux6.append(sorted(aux5))
 		            average=med_dev5(aux6)    
 		    
 		        elif i==0:    #primeiro timestamp - comparar SO com os dois T's seguintes

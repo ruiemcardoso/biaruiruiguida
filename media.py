@@ -20,7 +20,7 @@ import math
 
 
 def med_dev5(aux6):     #chamar quando se quer comparar um total de 5 timestamps
-    
+
     a=0                
     media=[]  
     pointer=0
@@ -89,11 +89,26 @@ def med_dev5(aux6):     #chamar quando se quer comparar um total de 5 timestamps
                     soma=soma + ((vector[j]-valor_media)**2)
                     j+=1
                 valor_media= 30+10*math.log10(valor_media)
-                dev_p=30+10*math.log10(math.sqrt(float(soma))/float(len(vector)))
+                dev_p=30+10*math.log10(math.sqrt(float(soma)/float(len(vector))))
                 media.append([current, valor_media, dev_p])    
                  
             b_aux+=1
     
+    a=0
+    i=0
+    b+=1
+    flag=0
+    while a < len(aux6[b]):
+        while i<len(media):
+            if aux6[b][a][0] == media[i][0]:
+                flag=1
+            i+=1
+        if flag ==0:
+                media.append([aux6[b][a][0], aux6[b][a][1], 30+10*math.log10(10**(-27))])
+        a+=1
+        i=0
+        flag=0
+        
     media=sorted(media)    
     return media
     
