@@ -32,7 +32,7 @@ def particle_init(mapa, edges,declive,b):
         aa =yp-mapa[ref][0][2]
         d = euc_norm([a,aa])        
         
-        particulas[x] = [k, 1.0/N, xp, yp, random.uniform(0, 360), o, d]
+        particulas[x] = [k, 1.0/N, random.uniform(-0.3,0.3), random.uniform(-0.5,0.5), random.uniform(0, 360), o, d]
         
     return particulas
 
@@ -114,9 +114,9 @@ def perceptual_model (particula,mapa,edges, medida):
             #dp2_linear=10**(mapa[vert_i][1][c1][2]/10)/1000
             
             mac_ap.append(mapa[vert_j][1][c2][0])            
-            M.append((auxlvj*mapa[vert_j][1][c2][1]+auxlvi*mapa[vert_i][1][c1][1])/auxvivj)
+            M.append((auxlvi*mapa[vert_j][1][c2][1]+auxlvj*mapa[vert_i][1][c1][1])/auxvivj)
             #M.append((auxlvj*media1_mw+auxlvi*media2_mw)/auxvivj)
-            D.append((auxlvj*mapa[vert_j][1][c2][2]+auxlvi*mapa[vert_i][1][c1][2])/auxvivj)
+            D.append((auxlvi*mapa[vert_j][1][c2][2]+auxlvj*mapa[vert_i][1][c1][2])/auxvivj)
             #D.append((dp1_linear+auxlvi*dp2_linear)/auxvivj)            
             c1 += 1
             c2 += 1
@@ -124,14 +124,14 @@ def perceptual_model (particula,mapa,edges, medida):
         elif mapa[vert_i][1][c1][0] < mapa[vert_j][1][c2][0]:
             
             mac_ap.append(mapa[vert_j][1][c2][0])
-            M.append((auxlvj*mapa[vert_j][1][c2][1])/auxvivj)
-            D.append((auxlvj*mapa[vert_j][1][c2][1]+auxlvi*(-10))/auxvivj)
+            M.append((auxlvi*mapa[vert_j][1][c2][1])/auxvivj)
+            D.append((auxlvi*mapa[vert_j][1][c2][1]+auxlvj*(-10))/auxvivj)
             c1 += 1
             
         else:
             mac_ap.append(mapa[vert_i][1][c1][0])
-            M.append((auxlvi*mapa[vert_i][1][c1][1])/auxvivj)
-            D.append((auxlvi*mapa[vert_i][1][c1][1]+auxlvj*(-10))/auxvivj)
+            M.append((auxlvj*mapa[vert_i][1][c1][1])/auxvivj)
+            D.append((auxlvj*mapa[vert_i][1][c1][1]+auxlvi*(-10))/auxvivj)
             c2 += 1
         
     c1=0
@@ -143,14 +143,14 @@ def perceptual_model (particula,mapa,edges, medida):
     else: 
         d_xi = auxlvj
     
-    epsilon=0.01       
+    epsilon=0.1       
         
     while(c2<len(medida) and c1<len(mac_ap)):
         if (mac_ap[c1] == medida[c2][0]):
             prob_sl = prob_sl*((2*epsilon/(math.sqrt(2*math.pi)*d_xi))*math.e**((float(medida[c2][1])-M[c1])**2/(2*D[c1]**2)))
             c1+=1
             c2+=1
-
+            break
         elif (mac_ap[c1] < medida[c2][0]):
             c1 +=1
         else: 
@@ -188,36 +188,35 @@ def resampling (Xt, mapa, edges, declive, b):
         i=0
         Xt_resampled=[None]*len(Xt)
          
-        for i in range(int(0.9*len(Xt))):
+        for i in range(int(1.0*len(Xt))):
             part=numpy.random.choice(aux,p=weigaux)
             Xt_resampled[i]=list(Xt[part])
             Xt_resampled[i][1]=1.0/len(Xt)
         
         	
-        for i in range(int(0.9*len(Xt)), len(Xt)):
-        		k = random.randint(0, len(edges)-1)
-        		aux1 = edges[k][0]
-        		aux2 = edges[k][1]
-        		xa = mapa[aux1][0][1]
-        		xb = mapa[aux2][0][1]
-        		
-        		xp=random.uniform(xa, xb)
-        		yp=declive[k]*xp+b[k]
-        		o=0
-        		
-        		if (aux1<aux2):
-        			ref = aux1
-        		else:
-        			ref = aux2
-        		a = xp-mapa[ref][0][1]
-        		aa =yp-mapa[ref][0][2]
-        		d = euc_norm([a,aa])
-                #print 'Ola'
-        		Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
+#        for i in range(int(0.9*len(Xt)), len(Xt)):
+#        		k = random.randint(0, len(edges)-1)
+#        		aux1 = edges[k][0]
+#        		aux2 = edges[k][1]
+#        		xa = mapa[aux1][0][1]
+#        		xb = mapa[aux2][0][1]
+#        		
+#        		xp=random.uniform(xa, xb)
+#        		yp=declive[k]*xp+b[k]
+#        		o=0
+#        		
+#        		if (aux1<aux2):
+#        			ref = aux1
+#        		else:
+#        			ref = aux2
+#        		a = xp-mapa[ref][0][1]
+#        		aa =yp-mapa[ref][0][2]
+#        		d = euc_norm([a,aa])
+#                #print 'Ola'
+#        		Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
         return Xt_resampled
 
     else:
-        print 'ello'
         return Xt
         #Xt_resampled=[0]*len(Xt)
 
