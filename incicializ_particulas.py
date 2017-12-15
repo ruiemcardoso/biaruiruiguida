@@ -32,7 +32,7 @@ def particle_init(mapa, edges,declive,b):
         aa =yp-mapa[ref][0][2]
         d = euc_norm([a,aa])        
         
-        particulas[x] = [k, 1.0/N, random.uniform(-0.3,0.3), random.uniform(-0.5,0.5), random.uniform(0, 360), o, d]
+        particulas[x] = [k, 1.0/N, xp, yp, random.uniform(0, 360), o, d]
         
     return particulas
 
@@ -147,10 +147,10 @@ def perceptual_model (particula,mapa,edges, medida):
         
     while(c2<len(medida) and c1<len(mac_ap)):
         if (mac_ap[c1] == medida[c2][0]):
-            prob_sl = prob_sl*((2*epsilon/(math.sqrt(2*math.pi)*d_xi))*math.e**((float(medida[c2][1])-M[c1])**2/(2*D[c1]**2)))
+            prob_sl = prob_sl*((2*epsilon/(math.sqrt(2*math.pi)*d_xi))*math.e**(-(float(medida[c2][1])-M[c1])**2/(2*D[c1]**2)))
             c1+=1
             c2+=1
-            break
+
         elif (mac_ap[c1] < medida[c2][0]):
             c1 +=1
         else: 

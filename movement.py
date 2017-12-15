@@ -16,15 +16,18 @@ def get_odom():
 	x = msg.pose.pose.position.x
 	y = msg.pose.pose.position.y
 	
-	return [x,y]
+	o_w = msg.pose.pose.orientation.w
+	o_z = msg.pose.pose.orientation.z
+	
+	return [x,y,o_w,o_z]
 
 
 def delta_odom(x_p,y_p):
-	[x, y] = get_odom()
+	[x, y, o_w, o_z] = get_odom()
 	d_x=x-x_p
 	d_y=y-y_p
 
-	return [d_x,d_y,x,y]
+	return [d_x,d_y,x,y, o_w, o_z]
 	
 
 #def main():
