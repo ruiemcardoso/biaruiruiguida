@@ -11,11 +11,16 @@ from rssi import *
 import tf
 import rospy
 import time
+from operator import itemgetter
 
 def init_cloud():
 	cloud=PoseArray()
 	cloud.header.frame_id="map"
 	return cloud
+	
+def init_w_part():
+	w_part=Pose()
+	return w_part
 
 def init_particle(particulas):
 	single_pose_msg=Pose()
@@ -62,10 +67,15 @@ def move_particles(cloud,d_x,d_y,o_w,o_z,particulas,rssi,mapa,edges,declive,decl
 			particulas[i][1] = perceptual_model(particulas[i],mapa,edges,rssi)
 	
 	particulas=constrain(particulas, edges, mapa, declive, declive_perp, b)	
-	
+	wei_part=sorted(particulas,key=itemgetter(1),reverse=True)[0]
 	if (abs(d_x)>0.01 or abs(d_y)>0.01 and new_rssi==1):
 		#print "faz resampling"
 		particulas=resampling(particulas,mapa,edges,declive,b)
+	for i in range(len(particulas)):
+		if particulas[i]==wei_part:
+			wei_part_temp=particulas[0]
+			particulas[0]=wei_part
+			particulas[i]=wei_part_temp
 		new_rssi=0
 		
 	for i in range (len(particulas)):
@@ -85,9 +95,9 @@ def process_rssi(wifi):
 	j=0
 	for i in range(len(wifi)):
 		if wifi[i] == 'Address:':
-               	        aux1.append(wifi[i+1])
+			aux1.append(wifi[i+1])
 			j+=1
-               	if wifi[i][0:5] == 'level':
+		if wifi[i][0:5] == 'level':
 			aux1.append(float(wifi[i][-3:len(wifi[i])]))
 			j+=1
 		if j==2:
@@ -98,16 +108,20 @@ def process_rssi(wifi):
 	
  	return sorted(aux)
 
-def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b,wifi,old_wifi):
+def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b,wifi,old_wifi,w_part):
 	
 	no_move=1	
 
 	cloud_pub=rospy.Publisher('cloud_',PoseArray,queue_size=1)
+	particle_pub=rospy.Publisher('w_particle',Pose,queue_size=1)
+	w_part=init_particle(particulas[0])
 	
+	w_particle=w_part
 	cloud_=cloud
 
 	while not rospy.is_shutdown():
 		cloud_pub.publish(cloud_)
+		particle_pub.publish(w_particle)
 		rospy.Subscriber('rssi',String,callback)
 		new_wifi=wifi[len(wifi)-1]
 		
@@ -126,7 +140,8 @@ def talker(cloud,x,y,particulas,mapa,edges,declive,declive_perp,b,wifi,old_wifi)
 		[d_x,d_y,x,y,o_w,o_z]=delta_odom(x,y)
 
 		particulas=move_particles(cloud.poses,d_x,d_y,o_w,o_z,particulas,rssi,mapa,edges,declive,declive_perp,b,new_rssi)
-		
+		w_part.position.x=particulas[0][2]
+		w_part.position.y=particulas[0][3]
 		d_x=0
 		d_y=0
 		
@@ -142,6 +157,7 @@ def main():
 	wifi.append(cenas)
 	old_wifi='s'
 	cloud=init_cloud()
+	w_part=init_w_part()
 	[vertices,edges,mapes,declive,declive_perp,b]=mapa()
 	particulas=particle_init(mapes,edges,declive,b)
 
@@ -151,7 +167,7 @@ def main():
 	
 	[x,y,o_w,o_z]=get_odom()
 	#print('x: {}, y: {}'.format(x,y))
-	talker(cloud,x,y,particulas,mapes,edges,declive,declive_perp,b,wifi,old_wifi)
+	talker(cloud,x,y,particulas,mapes,edges,declive,declive_perp,b,wifi,old_wifi,w_part)
 
 if __name__ == '__main__':
 	main()
