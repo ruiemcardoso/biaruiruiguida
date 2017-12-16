@@ -83,7 +83,7 @@ def med_dev5(aux6):     #chamar quando se quer comparar um total de 5 timestamps
                     
             if len(vector)>0 and pointer==0:    
                 valor_media=float(sum(vector))/float(len(vector))
-                if (30+10*math.log10(valor_media))>-70:
+                if (30+10*math.log10(valor_media))>-65:
                     j=0
                     soma=10**(-15)
                     dev_p=0
@@ -105,18 +105,14 @@ def med_dev5(aux6):     #chamar quando se quer comparar um total de 5 timestamps
             if aux6[b][a][0] == media[i][0]:
                 flag=1
             i+=1
-        if flag ==0 and float(aux6[b][a][1])>-70:
+        if flag ==0 and float(aux6[b][a][1])>-65:
                 media.append([aux6[b][a][0], float(aux6[b][a][1]), 30+10*math.log10(10**(-15))])
         a+=1
         i=0
         flag=0
         
-    abcd=sorted(media, key=itemgetter(1), reverse=True)
-    abcd=[abcd[0], abcd[1], abcd[2], abcd[3]]
-    return abcd
-        
-#    media=sorted(media)    
-#    return media
+    media=sorted(media)    
+    return media
     
    
    

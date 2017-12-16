@@ -7,7 +7,7 @@ import numpy
 
 #baixamos o n de particulas
 def particle_init(mapa, edges,declive,b):
-    N = len(mapa)
+    N = 5*len(mapa)
     particulas = [None]*N
     
     for x in range (0, N):
@@ -32,7 +32,7 @@ def particle_init(mapa, edges,declive,b):
         aa =yp-mapa[ref][0][2]
         d = euc_norm([a,aa])        
         
-        particulas[x] = [k, 1.0/N, xp, yp, random.uniform(0, 360), o, d]
+        particulas[x] = [k, 1.0/N, random.normalvariate(0,0.2), random.normalvariate(0,0.2), random.uniform(0, 360), o, d]
         
     return particulas
 
@@ -192,33 +192,34 @@ def resampling (Xt, mapa, edges, declive, b):
             part=numpy.random.choice(aux,p=weigaux)
             Xt_resampled[i]=list(Xt[part])
             Xt_resampled[i][1]=1.0/len(Xt)
+            Xt_resampled[i][2] += random.normalvariate(0,0.05)
+            Xt_resampled[i][3] += random.normalvariate(0,0.05)
+            Xt_resampled[i][4] += random.normalvariate(0,0.05)
         
         	
-#        for i in range(int(0.9*len(Xt)), len(Xt)):
-#        		k = random.randint(0, len(edges)-1)
-#        		aux1 = edges[k][0]
-#        		aux2 = edges[k][1]
-#        		xa = mapa[aux1][0][1]
-#        		xb = mapa[aux2][0][1]
-#        		
-#        		xp=random.uniform(xa, xb)
-#        		yp=declive[k]*xp+b[k]
-#        		o=0
-#        		
-#        		if (aux1<aux2):
-#        			ref = aux1
-#        		else:
-#        			ref = aux2
-#        		a = xp-mapa[ref][0][1]
-#        		aa =yp-mapa[ref][0][2]
-#        		d = euc_norm([a,aa])
-#                #print 'Ola'
-#        		Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
+        #for i in range(int(0.95*len(Xt)), len(Xt)):
+        		#k = random.randint(0, len(edges)-1)
+        		#aux1 = edges[k][0]
+        		#aux2 = edges[k][1]
+        		#xa = mapa[aux1][0][1]
+        		#xb = mapa[aux2][0][1]
+        		
+        		#xp=random.uniform(xa, xb)
+        		#yp=declive[k]*xp+b[k]
+        		#o=0
+        		
+        		#if (aux1<aux2):
+        			#ref = aux1
+        		#else:
+        			#ref = aux2
+			#a = xp-mapa[ref][0][1]
+			#aa =yp-mapa[ref][0][2]
+			#d = euc_norm([a,aa])
+			#Xt_resampled[i] = [k, 1.0/len(Xt), xp, yp, random.uniform(0, 360), o, d]
         return Xt_resampled
 
     else:
         return Xt
-        #Xt_resampled=[0]*len(Xt)
 
    # return Xt
     

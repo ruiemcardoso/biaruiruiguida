@@ -67,9 +67,9 @@ def move_particles(cloud,d_x,d_y,o_w,o_z,particulas,rssi,mapa,edges,declive,decl
 			particulas[i][1] = perceptual_model(particulas[i],mapa,edges,rssi)
 	
 	particulas=constrain(particulas, edges, mapa, declive, declive_perp, b)	
-     particulas=sorted(particulas,key=itemgetter(1),reverse=True)
-     particulas[0][1]*=3
-	wei_part=particulas[0]
+	particulas=sorted(particulas,key=itemgetter(1),reverse=True)
+	#particulas[0][1]*=3
+	wei_part=list(particulas[0])
  
 	if (abs(d_x)>0.01 or abs(d_y)>0.01 and new_rssi==1):
 		#print "faz resampling"
@@ -77,9 +77,9 @@ def move_particles(cloud,d_x,d_y,o_w,o_z,particulas,rssi,mapa,edges,declive,decl
   
 	for i in range(len(particulas)):
 		if particulas[i][2]==wei_part[2] and particulas[i][3]==wei_part[3]:
-			wei_part_temp=particulas[0]
-			particulas[0]=wei_part
-			particulas[i]=wei_part_temp
+			wei_part_temp=list(particulas[0])
+			particulas[0]=list(wei_part)
+			particulas[i]=list(wei_part_temp)
 		new_rssi=0
 		
 	for i in range (len(particulas)):
