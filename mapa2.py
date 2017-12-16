@@ -6,18 +6,22 @@ Created on Thu Oct 26 16:18:33 2017
 
 """
 
+#rosrun stage_ros stageros $(rospack find stage)/worlds/pioneer_walle.world
+# rostopic echo  /robot_0/odom > try1.txt
+
+#para correr o programa pelo terminal
+#file = raw_input("Nome do ficheiro")
+#F=open(file, 'r')
 
 
 from media import *
 
-
 def mapa():
-
-	F=open("/home/student/Desktop/teste/aaa.txt","r")
+	F=open("/home/beatriz/biaruiruiguida/1corr.txt","r")
 	m=[F.readlines()]
 	F.close()
 	
-	Q=open("/home/student/Desktop/teste/1/1corrwifi.txt","r")
+	Q=open("/home/beatriz/biaruiruiguida/1corrwifi.txt","r")
 	w=[Q.readlines()]
 	Q.close()
 	
@@ -38,13 +42,13 @@ def mapa():
 		
 		existing = False
 		#obtenção dos movimentos significativos
-		if abs(lastx-float(m[0][index+6][9:-1])) >= larg_corredor or abs(lasty-float(m[0][index+7][9:-1])) >= larg_corredor:
-		    lastx=float(m[0][index+6][9:-1])
-		    lasty=float(m[0][index+7][9:-1])
+		if abs(lastx-float(m[0][index+7][9:-1])) >= larg_corredor or abs(lasty-float(m[0][index+8][9:-1])) >= larg_corredor:
+		    lastx=float(m[0][index+7][9:-1])
+		    lasty=float(m[0][index+8][9:-1])
 	
 		    #incialza a lista de vertices           
 		    if index_vert==0:
-		         vertices.append([timestamp, float(m[0][index+6][9:-1]), float(m[0][index+7][9:-1])])
+		         vertices.append([timestamp, float(m[0][index+7][9:-1]), float(m[0][index+8][9:-1])])
 	
 		         index_vert +=1
 		         last_vert=0
@@ -64,6 +68,8 @@ def mapa():
 		        if existing == False:
 		            new_vertice = [timestamp, lastx, lasty]
 		            vertices.append(new_vertice)
+		            #if ([index_vert, index_vert] in edges) == False:
+		                #edges.append([index_vert, index_vert])
 		            if ([index_vert, last_vert] in edges) == False and ([last_vert, index_vert] in edges) == False:     
 		                edges.append([index_vert, last_vert])
 		                last_vert = index_vert
@@ -82,10 +88,10 @@ def mapa():
 		         
 		         
 		         
-	    index += 19
-		
-		
-		
+	    index += 31
+	
+	
+	
 	wifi=[]
 	aux=[]
 	i=0
@@ -277,8 +283,13 @@ def mapa():
 		    
 	    i+=1
 	    
-	
-	
+	#new_vertices=[None]*len(mapa) 
+	#counter=0  
+	#for i in range(len(vertices)):
+	#    for j in range(len(mapa)):
+	#        if(vertices[i] == mapa[j][0]):
+	#            new_vertices[counter] = vertices[i]
+	#            counter +=1
 	edges = []
 	index_vert=0
 	min_x=0
@@ -349,6 +360,6 @@ def mapa():
 		declive[i]=0.0001
 	    declive_perp[i]=float(-1)/declive[i]
 	    b[i]=ya-float(declive[i])*xa
-	
-		
-	return [vertices,edges,mapa,declive,declive_perp,b]
+
+   	return [vertices,edges,mapa,declive,declive_perp,b]
+        
