@@ -13,11 +13,11 @@ from media import *
 
 def mapa():
 
-	F=open("/home/student/Downloads/torreamclpose.txt","r")
+	F=open("/home/student/Downloads/9do12/biaruiruiguida/torreamclpose.txt","r")
 	m=[F.readlines()]
 	F.close()
 	
-	Q=open("/home/student/Downloads/torrewifiamcl.txt","r")
+	Q=open("/home/student/Downloads/9do12/biaruiruiguida/torrewifiamcl.txt","r")
 	w=[Q.readlines()]
 	Q.close()
 	
